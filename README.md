@@ -5,6 +5,8 @@ no subscriptions — just the cleaning tools.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue) ![Swift 6](https://img.shields.io/badge/Swift-6-orange)
 
+![Smart Scan](docs/smart-scan.png)
+
 ## Features
 
 ### Cleanup
